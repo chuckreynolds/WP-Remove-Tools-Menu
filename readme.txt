@@ -1,7 +1,7 @@
 === Remove Tools Menu ===
 Contributors: ryno267
-Donate link: http://rynoweb.com/
-Tags: admin, tools, tool menu, menu, tools, tools menu, import, export
+Donate link: http://rynoweb.com/wordpress-plugins/
+Tags: admin, tools, tool menu, tools menu, admin menu
 Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: trunk
@@ -28,6 +28,9 @@ Why not? In all the WP sites I've ever had I think I've only used the Import/Exp
 
 
 == Changelog ==
+
+= 1.1 =
+* Now checks if remove_menu_page function exists and uses that if it does and will default to older method if not.
 
 = 1.0 =
 * Initial release
