@@ -3,7 +3,7 @@
 Plugin Name: Remove Tools Menu
 Plugin URI: http://rynoweb.com/wordpress-plugins/
 Description: Super simple plugin to remove the Tools menu from WordPress Admin - just because.
-Version: 1.1
+Version: 1.2
 Author: Chuck Reynolds
 Author URI: http://chuckreynolds.us
 License: GPL2
@@ -25,7 +25,7 @@ License: GPL2
 	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 */
 
-function ryno_dont_be_a_tool () {
+function chuck_says_dont_be_a_tool () {
 	
 	if (function_exists('remove_menu_page')) {
 		remove_menu_page('tools.php');
@@ -41,6 +41,6 @@ function ryno_dont_be_a_tool () {
 		}
 	}
 }
-add_action('admin_menu', 'ryno_dont_be_a_tool');
+add_action('admin_init', 'chuck_says_dont_be_a_tool');
 
 ?>

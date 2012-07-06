@@ -27,7 +27,14 @@ This plugin does exactly what the title says, when activated will remove the Too
 Why not? In all the WP sites I've ever had I think I've only used the Import/Export thing like four times ever. For everyday normal use I got tired of it getting in my way. I created this plugin to share as others may want to hide it until needed.
 
 
+== Upgrade Notice ==
+= 1.2 =
+No new features, just updated the way this plugin works for the new versions of WordPress. Update and carry on!
+
+
 == Changelog ==
+= 1.2 =
+* Updated to admin_init action hook. Works either way but the new correct way is init. No new features, same thing :)
 
 = 1.1 =
 * Now checks if remove_menu_page function exists and uses that if it does and will default to older method if not.
