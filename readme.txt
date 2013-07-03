@@ -4,7 +4,7 @@ Donate link: http://rynoweb.com/wordpress-plugins/
 Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 1.2
+Stable tag: 1.3
 
 Super simple plugin to remove the Tools menu from WordPress Admin
 
@@ -33,6 +33,9 @@ No new features, just updated the way this plugin works for the new versions of 
 
 
 == Changelog ==
+= 1.3 =
+* changed filter when plugin runs - was causing issues with media library display from post insert
+
 = 1.2 =
 * Updated to admin_init action hook. Works either way but the new correct way is init.
 * Little code cleanup and readme update
