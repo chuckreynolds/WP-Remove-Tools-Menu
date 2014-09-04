@@ -3,7 +3,7 @@ Contributors: ryno267
 Donate link: http://rynoweb.com/wordpress-plugins/
 Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
 Requires at least: 3.2
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 2.1
 
 Super simple plugin to remove the Tools menu from WordPress Admin
