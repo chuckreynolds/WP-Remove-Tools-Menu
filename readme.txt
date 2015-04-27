@@ -3,8 +3,8 @@ Contributors: ryno267
 Donate link: http://rynoweb.com/wordpress-plugins/
 Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
 Requires at least: 3.2
-Tested up to: 4.0
-Stable tag: 2.1
+Tested up to: 4.2
+Stable tag: 2.2
 
 Super simple plugin to remove the Tools menu from WordPress Admin
 
@@ -28,13 +28,11 @@ Why not? In all the WP sites I've ever had I think I've only used the Import/Exp
 
 
 == Upgrade Notice ==
-= 2.1 =
-* tested to 3.9
-
-= 2.0 =
-* This update addresses issues with the media library being blank
 
 == Changelog ==
+= 2.2 =
+* tested to wp 4.2
+
 = 2.0 =
 * changed filter when plugin runs - was causing issues with media library display from post insert
 * also took out legacy crap and made this plugin require WP version 3.1+
