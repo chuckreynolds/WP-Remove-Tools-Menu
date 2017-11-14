@@ -3,7 +3,7 @@
  * Plugin Name:   Remove Tools Menu
  * Plugin URI:    https://wordpress.org/plugins/remove-tools-menu/
  * Description:   Super simple plugin to remove the Tools menu from WordPress Admin - just because.
- * Version:       2.3
+ * Version:       2.3.1
  * Author:        Chuck Reynolds
  * Author URI:    https://chuckreynolds.us
  * License:       GPL-2.0+

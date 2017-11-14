@@ -3,8 +3,8 @@ Contributors: ryno267
 Donate link: https://cash.me/$chuckreynolds
 Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
 Requires at least: 3.2
-Tested up to: 4.8
-Stable tag: 2.3
+Tested up to: 4.9
+Stable tag: 2.3.1
 
 Super simple plugin to remove the Tools menu from WordPress Admin
 
@@ -20,6 +20,12 @@ This plugin does exactly what the title says, when activated will remove the Too
 Why not? In all the WP sites I've ever had I think I've only used the Import/Export thing like four times ever. For everyday normal use I got tired of it getting in my way. I created this plugin to share as others may want to hide it until needed.
 
 == Changelog ==
+= 2.3.1 =
+
+Release Date - 2017-11-14
+
+* tested up to WP 4.9
+
 = 2.3 =
 
 Release Date - 2017-03-29
