@@ -6,10 +6,10 @@ Requires at least: 3.2
 Tested up to: 4.9
 Stable tag: 2.3.1
 
-Super simple plugin to remove the Tools menu from WordPress Admin
+Super simple plugin to remove the Tools menu from WordPress Admin Menu
 
 == Description ==
-This plugin does exactly what the title says, when activated will remove the Tools menu from your WordPress Admin navigation menu. If you need import, export, or get the press-this bookmarklet again, or if any of your plugins add submenus into it, simply deactivate the plugin, do your thing, then re-enable the Remove Tools Menu plugin to remove it again and keep it out of your way. NOTE: there are certain plugins that add things to the Tools menu... those obviously won't show up either but the plugin still does what it was built to do. Have fun.
+This plugin does exactly what the title says, when activated it will remove the Tools menu from your WordPress Admin navigation menu. If you need import, export, the old press-this bookmarklet, or if any of your plugins add items into it, simply deactivate the plugin, do your thing, then re-enable the Remove Tools Menu plugin to remove Tools again and keep it out of your way. NOTE: there are certain plugins that add things to the Tools menu... those obviously won't show up either but the plugin still does what it was built to do. Have fun.
 
 == Installation ==
 1. Upload the `remove-tools-menu` folder to the `/wp-content/plugins/` directory
@@ -22,9 +22,9 @@ Why not? In all the WP sites I've ever had I think I've only used the Import/Exp
 == Changelog ==
 = 2.3.1 =
 
-Release Date - 2017-11-14
+Release Date - 2017-11-24
 
-* tested up to WP 4.9
+* tested to WP 4.9
 
 = 2.3 =
 
