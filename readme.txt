@@ -1,10 +1,11 @@
 === Remove Tools Menu ===
 Contributors: ryno267
-Donate link: https://cash.me/$chuckreynolds
+Donate link: https://buymeacoffee.com/chuckreynolds
 Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
-Requires at least: 3.2
-Tested up to: 6.8.1
-Stable tag: 2.4.0
+Requires at least: 5.2
+Tested up to: 6.9.1
+Requires PHP: 7.4
+Stable tag: 2.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +23,15 @@ This plugin does exactly what the title says, when activated it will remove the 
 Why not? In all the WP sites I've ever had I think I've only used the Import/Export thing like four times ever. For everyday normal use I got tired of it getting in my way. I created this plugin (in may 2011) to share as others may want to hide it until needed.
 
 == Changelog ==
+= 2.5.0 =
+Release Date - 2026-03-09
+
+* Tested to WP 6.9.1
+* Updated minimum requirements: WordPress 5.2+, PHP 7.4+
+* Modernized plugin headers to current WordPress standards
+* Added is_admin() early return for clarity and correctness
+* Renamed function to chuck_remove_tools_menu for clarity
+
 = 2.4.0 =
 Release Date - 2025-06-26
 
