@@ -1,7 +1,7 @@
 === Remove Tools Menu ===
 Contributors: ryno267
 Donate link: https://buymeacoffee.com/chuckreynolds
-Tags: admin, tools, tool menu, tools menu, remove tools, admin menu
+Tags: tool menu, tools menu, remove tools, admin menu
 Requires at least: 5.2
 Tested up to: 6.9.1
 Requires PHP: 7.4
